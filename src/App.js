@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+import ada from './ada-logo.webp';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ada} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>y a ti</code> te gusta programar?.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://ada-school.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          clickea aquí
         </a>
       </header>
     </div>
